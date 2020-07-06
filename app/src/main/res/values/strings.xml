@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical Aun Kai Wen</string>
+    <string name="Toast_text">Toast</string>
+    <string name="count_text">COUNT</string>
+    <string name="zero">0</string>
+    <string name="toast_message">Hello AACS</string>
+    <string name="show_count">0</string>
+    <string name="button_zero">Zero</string>
+</resources>
